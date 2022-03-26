@@ -111,7 +111,7 @@ label {
     input {
       width: 98%;
       height: 50px;
-      font-size: 25px;
+      font-size: 20px;
 
       &:focus {
         border: 1px solid #101010;
